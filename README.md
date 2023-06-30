@@ -1,4 +1,4 @@
-## Olá! Eu sou a Elaine Carvalho 👋
+## Olá! Eu sou Elaine Carvalho 👋
 
 - 🔭 Hoje trabalho como professora
 - 🌱 Estudando programação
